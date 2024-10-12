@@ -9,11 +9,13 @@ DOMAIN-SUFFIX,pub3back.emby.wtf
 DOMAIN-SUFFIX,pub1.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,pub2.term.wtf
+DOMAIN-SUFFIX,pub3.term.wtf
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
-
 # 域名匹配
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
