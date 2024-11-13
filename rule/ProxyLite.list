@@ -3,6 +3,18 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
+# 自用域名后缀匹配
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,missav.com
+
+# FSM网站
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,api.fsm.name
+DOMAIN-SUFFIX,img.fsm.name
+DOMAIN-SUFFIX,sv.fsm.name
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
